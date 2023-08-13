@@ -1,0 +1,5 @@
+classes = 3
+train = flipkart_grid/train.txt
+valid = flipkart_grid/test.txt
+names = flipkart_grid/classes.names
+backup = backup
